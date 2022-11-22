@@ -1,0 +1,10 @@
+   
+.text
+{
+    display: block;
+    margin: auto;
+    width: 300px;
+    padding: 10px ;
+    background-color: blue;
+    color: white;
+}

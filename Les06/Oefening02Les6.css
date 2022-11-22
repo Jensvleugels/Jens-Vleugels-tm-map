@@ -1,0 +1,27 @@
+
+.whitebox
+{
+    background-color: white;
+    height: 300px;
+    width: 50%;
+    padding: 5px;
+}
+.redbox
+{
+    background-color: red;
+    height: 200px;
+    width: 75%;
+    padding: 5px;
+    
+}
+.yellowbox
+{
+    background-color: yellow;
+    height: 100px;
+    width: 50%;
+    text-align: center;
+}
+body
+{
+    background-color: grey;
+}
